@@ -1,0 +1,36 @@
+.movies {
+  width: 100%;
+  max-width: 1200px;
+  margin-bottom: 2rem;
+}
+
+.movies h3 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.movies table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.movies table,
+.movies th,
+.movies td {
+  border: 1px solid #ccc;
+}
+
+.movies th,
+.movies td {
+  padding: 0.5rem;
+  text-align: left;
+}
+
+.movies th {
+  font-weight: bold;
+  background-color: #f5f5f5;
+}
+
+.movies tbody tr:nth-child(odd) {
+  background-color: #f0f0f0;
+}
