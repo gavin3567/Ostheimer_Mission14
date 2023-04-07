@@ -1420,11 +1420,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gavin\\Desktop\\IS 413\\Baddies\\backend\\MovieAPI\\MovieAPI.csproj",
+      "projectUniqueName": "C:\\Users\\gavin\\Desktop\\Baddies-\\backend\\MovieAPI\\MovieAPI.csproj",
       "projectName": "MovieAPI",
-      "projectPath": "C:\\Users\\gavin\\Desktop\\IS 413\\Baddies\\backend\\MovieAPI\\MovieAPI.csproj",
+      "projectPath": "C:\\Users\\gavin\\Desktop\\Baddies-\\backend\\MovieAPI\\MovieAPI.csproj",
       "packagesPath": "C:\\Users\\gavin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gavin\\Desktop\\IS 413\\Baddies\\backend\\MovieAPI\\obj\\",
+      "outputPath": "C:\\Users\\gavin\\Desktop\\Baddies-\\backend\\MovieAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gavin\\AppData\\Roaming\\NuGet\\NuGet.Config",
